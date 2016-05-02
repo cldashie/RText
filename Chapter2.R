@@ -1,0 +1,1 @@
+# Creating a new script as a test of the Git function for RStudio
